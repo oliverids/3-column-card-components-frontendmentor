@@ -80,6 +80,16 @@ button {
 
 }
 
+.attribution {
+    font-size: 15px;
+    text-align: center;
+    margin-top: 24px;
+  }
+
+  .attribution a {
+    color: hsl(228, 59%, 61%);
+  }
+
 @media only screen and (max-width: 780px) {
     section {
         max-width: 80%;
